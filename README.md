@@ -1,2 +1,3 @@
-This is the basic format of our projct. Hope so we will build up our project in a few months.
+# Math Guideline
+This project is based on high school. Mathematics is fearful for many kids, that's why this project can be useful to them as it includes many fundamental issues of mathematics.
 
